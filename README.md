@@ -1,1 +1,3 @@
-# image-upload-aws
+# Project Tutorial
+
+https://medium.com/swlh/build-an-image-upload-application-with-react-nodejs-postgresql-and-s3-34fe13fbe572
